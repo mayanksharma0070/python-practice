@@ -1,0 +1,2 @@
+import vaibhav
+vaibhav.greeting()
